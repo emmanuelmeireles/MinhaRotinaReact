@@ -5,7 +5,7 @@ const Routine = () => {
   return (
     <main>
       <section>
-        <h2>Manhã</h2>
+        <h2>Manhã indo ao trabalho</h2>
         <ul>
           <li>Tomar banho</li>
           <li>Passar roupas</li>
@@ -14,7 +14,7 @@ const Routine = () => {
         </ul>
       </section>
       <section>
-        <h2>Trabalho</h2>
+        <h2>clt</h2>
         <ul>
           <li>Chegar no trabalho às 8:00</li>
           <li>Preparar chá e sanduíche</li>
